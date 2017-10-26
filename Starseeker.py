@@ -142,7 +142,7 @@ if __name__ == '__main__':
 		log.write('\n')
 		log.write(str(len(entries)) + " pairs were created.")
 		log.write('\n')
-		log.write(str(len(e)) + " stars were created.")
+		log.write(str(len(e)) + " star sequences were predicted.")
 		log.write('\n')
 		log.write("The runtime of the program was ")
 		runtime = stop - start
